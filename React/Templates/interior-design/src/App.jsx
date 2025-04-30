@@ -1,10 +1,10 @@
-import Header from './header.jsx'
+import Header from './components/header.jsx'
 
-import HeroSection from './hero-section.jsx'
-import Section from './section.jsx'
-import Article from './article.jsx'
+import HeroSection from './components/hero-section.jsx'
+import Section from './components/section.jsx'
+import Article from './components/article.jsx'
 
-import Footer from './footer.jsx'
+import Footer from './components/footer.jsx'
 
 function App() {
 
